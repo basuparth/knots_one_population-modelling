@@ -11,4 +11,5 @@ emission from each knot separately to study whether there are knot to knot varia
 of magnetic field, luminosity in relativistic electrons and protons.
 Please refer to https://arxiv.org/pdf/1811.06422.pdf for a revised two-population modelling of the sources 
 presented here. I am sharing the one population modelling approach here as it is still interesing to 
-study the parameters required to explain the observed data from the knots.
+study the parameters required to explain the observed data from the knots without using multiple zones. 
+But of course the published version is a more detailed study.
