@@ -9,6 +9,6 @@ their X-ray emission could be of proton synchrotron origin. Each extended jet co
 distributed along its length, which are emitting brightly in radio to X-ray frequencies. We model the
 emission from each knot separately to study whether there are knot to knot variations in the strength
 of magnetic field, luminosity in relativistic electrons and protons.
-#Please refer to https://arxiv.org/pdf/1811.06422.pdf for a revised two-population modelling of the sources 
-#presented here. I am sharing the one population modelling approach here as it is still interesing to 
-#study the parameters required to explain the observed data from the knots.
+Please refer to https://arxiv.org/pdf/1811.06422.pdf for a revised two-population modelling of the sources 
+presented here. I am sharing the one population modelling approach here as it is still interesing to 
+study the parameters required to explain the observed data from the knots.
