@@ -5,7 +5,9 @@ as the origin of X-ray emission from extended jets of six quasars 3C 273, PKS 06
 synchrotron could be the possible radiative process for X-ray emission from the extended jets of 3C
 273 and PKS 0637-752. Here we extend this study to include five other extended jets of quasars S5
 2007+777, PKS 1136-135, PKS 1229-021, PKS 1354+195, and PKS 2209+080 to find out whether
-their X-ray emission could be of proton synchrotron origin. Each extended jet contains several knots
+their X-ray emission could be of proton synchrotron origin. 
+
+Each extended jet contains several knots
 distributed along its length, which are emitting brightly in radio to X-ray frequencies. We model the
 emission from each knot separately to study whether there are knot to knot variations in the strength
 of magnetic field, luminosity in relativistic electrons and protons.
